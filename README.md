@@ -158,9 +158,10 @@ EVALUATION CRITERIA COVERAGE
 
 Thank You!
 
-Thank you for the opportunity to work on this assignment. Looking forward to your feedback!
+Thank you for the opportunity to work on this assignment. 
+Looking forward to your feedback!
 
-Best regards, 
+Best regards,
 Vibhav Singh
 
 
