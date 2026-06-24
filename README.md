@@ -158,9 +158,7 @@ EVALUATION CRITERIA COVERAGE
 
 Thank You!
 
-Thank you for the opportunity to work on this assignment. I thoroughly 
-enjoyed building this game and incorporating polished UX elements. I look 
-forward to your feedback!
+Thank you for the opportunity to work on this assignment. Looking forward to your feedback!
 
 Best regards, 
 Vibhav Singh
